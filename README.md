@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Victoria Delgado 👋
 
-<!--
-**VickDelgado/VickDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 5+ years of experience building scalable web applications and APIs.
 
-Here are some ideas to get you started:
+My main experience is with Ruby on Rails, but I also work with Node.js microservices for real-time notifications and WebSocket communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing backend architectures that are reliable, scalable, and easy to maintain.
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- Ruby on Rails
+- Node.js
+- JavaScript
+- TypeScript
+
+### Databases
+- PostgreSQL
+- Redis
+- Cassandra
+- MongoDB
+
+### Architecture & Tools
+- REST APIs
+- Microservices
+- WebSockets
+- Background jobs
+- Docker
+- API documentation
+
+---
+
+## 💼 Professional Experience
+
+Backend developer with experience designing and maintaining production systems including:
+
+- API development with Ruby on Rails
+- Real-time notifications using WebSockets
+- Microservices built with Node.js
+- Background processing
+- Database design and optimization
+
+---
+
+## 🔬 Current Projects
+
+I’m currently building several backend projects to explore advanced architectures:
+
+- **Real-time production monitoring system**
+- **Distributed notification service**
+- **API analytics platform**
+- **Microservices architecture lab**
+
+These projects include technologies such as Redis, background workers, WebSockets, and multiple databases.
+
+---
+
+## 🧠 Areas of Interest
+
+- Backend architecture
+- Distributed systems
+- Real-time applications
+- API design
+- Performance optimization
+
+---
+
+## 🌎 Connect with me
+
+LinkedIn:
